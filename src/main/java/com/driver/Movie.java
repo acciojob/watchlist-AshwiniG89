@@ -4,6 +4,12 @@ public class Movie {
     private String name;
     private int duration;
     private double iMBDRating;
+<<<<<<< HEAD
+=======
+    public Movie(){
+
+    }
+>>>>>>> f9cd779 (Second commit)
 
     public Movie(String name, int duration, double iMBDRating) {
         this.name = name;
