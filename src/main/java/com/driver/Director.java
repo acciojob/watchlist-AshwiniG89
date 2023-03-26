@@ -5,12 +5,10 @@ public class Director {
     private int numberOfMovies;
     private double iMBDRatings;
 
-<<<<<<< HEAD
-=======
-    public Director(){
+//    public Director(){
+//
+//    }
 
-    }
->>>>>>> f9cd779 (Second commit)
     public Director(String directorName, int numberOfMovies, double iMBDRatings) {
         this.directorName = directorName;
         this.numberOfMovies = numberOfMovies;

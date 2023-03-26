@@ -8,10 +8,8 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-<<<<<<< HEAD
-=======
+
 @RequestMapping("movies")
->>>>>>> f9cd779 (Second commit)
 public class MovieController {
 
     @Autowired

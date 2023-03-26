@@ -9,7 +9,7 @@ import java.util.List;
 
 @Repository
 public class MovieRepository {
-    private HashMap<String,Movie>movieMap;
+    private HashMap<String,Movie> movieMap;
     private HashMap<String,Director>directorMap;
     private HashMap<String, List<String>>directorMoviesMap;
 
