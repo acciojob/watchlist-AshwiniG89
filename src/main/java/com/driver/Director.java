@@ -31,7 +31,7 @@ public class Director {
         this.numberOfMovies = numberOfMovies;
     }
 
-    public double getimdbRatings() {
+    public double getImdbRating() {
         return imdbRating;
     }
 
