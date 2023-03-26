@@ -23,7 +23,7 @@ public class MovieRepository {
         movieMap.put(movie.getName(),movie);
     }
     public void saveDirector(Director director){
-        directorMap.put(director.getDirectorName(),director);
+        directorMap.put(director.getName(),director);
     }
 
     public void saveMovieDirectorPair(String movie,String director){
